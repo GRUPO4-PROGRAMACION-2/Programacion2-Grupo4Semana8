@@ -2,6 +2,7 @@ package com.grupo4.semana8;
 
 public class Pedido {
     private int numero;
+    private int ticket;
     private String producto;
     private int cantidad;
     private double precioUnitario;
