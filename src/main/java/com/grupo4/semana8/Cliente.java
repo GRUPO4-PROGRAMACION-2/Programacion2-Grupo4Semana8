@@ -1,6 +1,14 @@
 package com.grupo4.semana8;
 
 public class Cliente {
-    // TODO: Integrante 1 debe completar la clase Cliente.
+    
     private String nombre;
+
+    public Cliente(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
 }
