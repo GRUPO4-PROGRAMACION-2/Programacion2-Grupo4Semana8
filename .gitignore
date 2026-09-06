@@ -1,0 +1,16 @@
+# Archivos compilados de Java
+*.class
+.javac-out/
+target/
+out/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+
+# Archivos locales
+.atl/
