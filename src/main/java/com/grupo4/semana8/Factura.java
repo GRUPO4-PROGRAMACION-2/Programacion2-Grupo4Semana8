@@ -8,4 +8,8 @@ public class Factura {
     public Factura (int numero) {
         this.numero = numero;
     }
+
+    private void generarNumero() {
+        this.numero = (int) (Math.random() * 10000);
+    }
 }
