@@ -5,7 +5,7 @@
 | 1 | Juan David Molina Ruano | Git Master |
 | 2 | Brayan Alexander Mendez Renderos | Desarrollador |
 | 3 | Edwin Anderson Joaquin Castro | Desarrollador |
-| 4 | Pendiente | Desarrollador |
+| 4 | Josué Rodrigo Juárez Alvarado | Desarrollador |
 | 5 | Pendiente | Desarrollador |
 | 6 | Pendiente | Desarrollador |
 | 7 | Pendiente | Desarrollador |
