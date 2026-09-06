@@ -5,3 +5,8 @@ public class Producto {
     private String nombre = "David Nerio";
     private int edad = 67;
 }
+    private String nombreweb;
+    private int edad;
+    private String apellido;
+    
+}
